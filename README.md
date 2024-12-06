@@ -23,9 +23,10 @@ Future Enhancements:
 Add a feature to detect the user’s location automatically and display local weather.
 Implement charts or graphs to visualize the 5-day forecast.
 Enhance UI/UX with additional animations and theme customization (e.g., dark/light mode).
-Also based on the city it will change the background image.
+Also based on the city it will change the background image and it will also give you the information about the city where there is currently day or night.
 
 Result Images:
-![1000069507](https://github.com/user-attachments/assets/45d6b96f-c00e-49be-aabf-da70b9c85282)
-![1000069508](https://github.com/user-attachments/assets/96dd4b27-c3a2-4814-8f80-105aad3591a3)
+
+1.) ![1000069507](https://github.com/user-attachments/assets/45d6b96f-c00e-49be-aabf-da70b9c85282)
+2.) ![1000069508](https://github.com/user-attachments/assets/96dd4b27-c3a2-4814-8f80-105aad3591a3)
 
