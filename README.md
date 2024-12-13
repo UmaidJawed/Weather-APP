@@ -1,4 +1,4 @@
-                                        WEATHER APPLICATION:
+WEATHER APPLICATION:
 
 This weather application is a user-friendly tool that provides real-time weather information for any city in the world. Built entirely with pure JavaScript, it utilizes data from a weather API to deliver accurate and detailed weather updates. The app also includes a 5-day forecast, helping users plan their week with ease.
 
